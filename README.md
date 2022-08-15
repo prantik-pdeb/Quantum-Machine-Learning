@@ -7,4 +7,4 @@ Reference(s) --
 
 Paper  https://arxiv.org/abs/2011.01938
 
-Blog  https://www.tensorflow.org/quantum/tutorials/quantum_data
+[Blog](https://www.tensorflow.org/quantum/tutorials/quantum_data)
